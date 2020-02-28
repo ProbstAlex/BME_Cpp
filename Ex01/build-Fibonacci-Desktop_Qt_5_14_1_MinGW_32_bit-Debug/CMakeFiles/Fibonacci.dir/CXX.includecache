@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Fibonacci/fibonacci.cpp
+fibonacci.h
+C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Fibonacci/fibonacci.h
+cmath
+-
+
+C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Fibonacci/fibonacci.h
+
+C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Fibonacci/main.cpp
+iostream
+-
+fibonacci.h
+C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Fibonacci/fibonacci.h
+iomanip
+-
+limits
+-
+
