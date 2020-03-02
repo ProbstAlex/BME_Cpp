@@ -6,19 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.cpp
-throwdarts.h
-C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h
-cmath
--
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/computePiMain.cpp
 iostream
 -
-iomanip
--
-limits
--
+throwdarts.h
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h
 random
 -
 
 C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h
+random
+-
 

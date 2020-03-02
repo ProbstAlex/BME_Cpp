@@ -1,10 +1,6 @@
 #include <iostream>
-
 #include "calculatorPrint.h" // <- Todo: Declare & Implement the function add, addNumbers, printType in the
                              //          files calculatorPrint.h/.cpp
-
-
-
 int main ()
 {
     // Code for 2.1.1
@@ -29,11 +25,11 @@ int main ()
 
 
     // Todo: Answer question 2.1.2
-    // The problem is that the num in void doubleNumber( int num ) is passed value, i.e. the argument num from
-    // main will not be overwritten in the function and the function will output num
+    // The problem is that the num in void doubleNumber( int num ) is passed by value, i.e. the argument num from
+    // main will not be overwritten in the function and the function will output num as declared in main
     // as the original assigned value, i.e. 35.
     // To make full use of the function, one will have to pass by reference:
-    //
+    // The passed argument will be overwritten according to the function.
 
 
 
