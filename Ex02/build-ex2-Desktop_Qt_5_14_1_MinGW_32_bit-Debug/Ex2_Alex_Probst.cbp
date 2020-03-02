@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex2_Alex_Probst"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Function">
+				<Option output="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Function.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 Function"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Function/fast">
+				<Option output="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Function.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 Function/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputePi">
+				<Option output="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/ComputePi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 ComputePi"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ComputePi/fast">
+				<Option output="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/ComputePi.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw730_32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 ComputePi/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw730_32/bin/mingw32-make.exe -f &quot;C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/calculatorPrint.cpp">
+			<Option target="Function"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/calculatorPrint.h">
+			<Option target="Function"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/computePiMain.cpp">
+			<Option target="ComputePi"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/functionMain.cpp">
+			<Option target="Function"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.cpp">
+			<Option target="ComputePi"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h">
+			<Option target="ComputePi"/>
+		</Unit>
+		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

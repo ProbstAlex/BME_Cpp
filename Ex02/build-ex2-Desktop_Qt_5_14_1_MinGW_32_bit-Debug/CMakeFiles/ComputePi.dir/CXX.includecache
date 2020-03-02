@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.cpp
+throwdarts.h
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h
+cmath
+-
+iostream
+-
+iomanip
+-
+limits
+-
+random
+-
+
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.h
+

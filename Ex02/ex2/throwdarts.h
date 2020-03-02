@@ -2,10 +2,9 @@
 #define THROWDARTS_H
 
 
-class ThrowDarts
-{
-public:
-    ThrowDarts();
-};
+void throwADart();
+void throwManyDarts(int throws);
+
+
 
 #endif // THROWDARTS_H

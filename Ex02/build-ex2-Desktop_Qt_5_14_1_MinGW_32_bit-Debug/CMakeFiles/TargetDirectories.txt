@@ -1,0 +1,4 @@
+C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/Function.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/ComputePi.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/build-ex2-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
