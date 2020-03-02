@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/Ex01_Alex_Probst
+# Install script for directory: C:/Users/alexp/Documents/BME_Cpp/Ex01/Ex01_Alex_Probst
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/alexp/OneDrive - Universitaet Bern/BMESS20/C++/Ex01/build-Ex01_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/alexp/Documents/BME_Cpp/Ex01/build-Ex01_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

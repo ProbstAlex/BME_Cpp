@@ -29,6 +29,7 @@ int main ()
     // main will not be overwritten in the function and the function will output num as declared in main
     // as the original assigned value, i.e. 35.
     // To make full use of the function, one will have to pass by reference:
+    // void doubleNumber ( int& num ){ num = num * 2;}
     // The passed argument will be overwritten according to the function.
 
 
