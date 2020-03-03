@@ -1,0 +1,4 @@
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build/CMakeFiles/Function.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build/CMakeFiles/ComputePi.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build/CMakeFiles/edit_cache.dir

@@ -7,8 +7,6 @@ cmake_minimum_required(VERSION 3.10)
 # set build type to Debug/Release
 set(CMAKE_BUILD_TYPE "Debug")
 
-
-
 # Create executable using the specified source files
 add_executable(Function
     functionMain.cpp
@@ -24,9 +22,6 @@ target_compile_options(Function PRIVATE
 $<$<OR:$<CXX_COMPILER_ID:Clang>,$<CXX_COMPILER_ID:GNU>>: -Wall>
 $<$<CXX_COMPILER_ID:MSVC>: /W3>
 )
-
-
-
 
 # Create executable using the specified source files
 add_executable(ComputePi

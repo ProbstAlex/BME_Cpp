@@ -2,9 +2,8 @@
 #define THROWDARTS_H
 #include <random>
 
-void throwADart(std::uniform_real_distribution<double>& dist, std::mt19937& mt);
-void throwManyDarts(std::uniform_real_distribution<double>& dist, std::mt19937& mt, int throws);
-
+void throwManyDarts(std::uniform_real_distribution<double> dist, std::mt19937 mt);
+void ex2();
 
 
 #endif // THROWDARTS_H

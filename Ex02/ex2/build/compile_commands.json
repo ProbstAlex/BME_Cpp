@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -Wall -std=gnu++11 -o CMakeFiles\\Function.dir\\functionMain.cpp.obj -c C:\\Users\\alexp\\Documents\\BME_Cpp\\Ex02\\ex2\\functionMain.cpp",
+  "file": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/functionMain.cpp"
+},
+{
+  "directory": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -Wall -std=gnu++11 -o CMakeFiles\\Function.dir\\calculatorPrint.cpp.obj -c C:\\Users\\alexp\\Documents\\BME_Cpp\\Ex02\\ex2\\calculatorPrint.cpp",
+  "file": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/calculatorPrint.cpp"
+},
+{
+  "directory": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -Wall -std=gnu++11 -o CMakeFiles\\ComputePi.dir\\computePiMain.cpp.obj -c C:\\Users\\alexp\\Documents\\BME_Cpp\\Ex02\\ex2\\computePiMain.cpp",
+  "file": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/computePiMain.cpp"
+},
+{
+  "directory": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE    -g   -Wall -std=gnu++11 -o CMakeFiles\\ComputePi.dir\\throwdarts.cpp.obj -c C:\\Users\\alexp\\Documents\\BME_Cpp\\Ex02\\ex2\\throwdarts.cpp",
+  "file": "C:/Users/alexp/Documents/BME_Cpp/Ex02/ex2/throwdarts.cpp"
+}
+]
