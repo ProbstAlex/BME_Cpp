@@ -1,0 +1,3 @@
+C:/Users/alexp/Documents/BME_Cpp/Ex03/build-ex3-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/Ex3Main.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex03/build-ex3-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex03/build-ex3-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
