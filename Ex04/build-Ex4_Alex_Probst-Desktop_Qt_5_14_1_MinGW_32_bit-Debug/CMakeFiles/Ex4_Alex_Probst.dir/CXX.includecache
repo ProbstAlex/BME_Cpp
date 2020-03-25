@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/book.h
+iostream
+-
+algorithm
+-
+
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/library.cpp
+iostream
+-
+library.h
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/library.h
+book.h
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/book.h
+vector
+-
+
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/library.h
+vector
+-
+book.h
+C:/Users/alexp/Documents/BME_Cpp/Ex04/Ex4_Alex_Probst/book.h
+

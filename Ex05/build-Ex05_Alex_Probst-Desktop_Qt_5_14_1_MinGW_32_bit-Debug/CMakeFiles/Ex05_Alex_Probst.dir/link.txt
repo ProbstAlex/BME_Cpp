@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Ex05_Alex_Probst.dir/objects.a
+C:\Qt\Tools\mingw730_32\bin\ar.exe cr CMakeFiles\Ex05_Alex_Probst.dir/objects.a @CMakeFiles\Ex05_Alex_Probst.dir\objects1.rsp
+C:\Qt\Tools\mingw730_32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Ex05_Alex_Probst.dir/objects.a -Wl,--no-whole-archive  -o Ex05_Alex_Probst.exe -Wl,--out-implib,libEx05_Alex_Probst.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ex05_Alex_Probst.dir\linklibs.rsp

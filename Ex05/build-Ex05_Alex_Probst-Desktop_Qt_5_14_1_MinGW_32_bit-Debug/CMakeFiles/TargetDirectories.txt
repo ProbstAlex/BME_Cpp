@@ -1,0 +1,3 @@
+C:/Users/alexp/Documents/BME_Cpp/Ex05/build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/Ex05_Alex_Probst.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex05/build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/alexp/Documents/BME_Cpp/Ex05/build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
