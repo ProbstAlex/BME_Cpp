@@ -1,5 +1,6 @@
 #ifndef VECTOR_H
 #define VECTOR_H
+#include <iostream>
 
 
 class Vector
@@ -11,15 +12,19 @@ public:
     Vector();
     Vector(int nbrOfValues);
     Vector(int nbrOfValues, int vecValue);
-    Vector(const Vector& vecValue);
-
     ~Vector();
+
+    Vector(const Vector& vecValue);
     Vector(Vector&& moveSource);
 
+    // copy assign operator
     Vector &operator=(const Vector& copySource);
+    // move assign operator
     Vector &operator=(Vector&& moveSource);
-    Vector &operator+ (const Vector& addThis);
 
+    // operations
+    Vector operator+ (const Vector& addThis);
+    Vector operator* (const Vector& multiplyThis);
 
     int size();
     int at(int index);
