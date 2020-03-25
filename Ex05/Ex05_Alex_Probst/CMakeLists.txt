@@ -10,8 +10,6 @@ set(CMAKE_BUILD_TYPE "Debug")
 # Create executable using the specified source files
 add_executable(${PROJECT_NAME}
     main.cpp
-    exampleclass.cpp
-    exampleclass.h
     vector.cpp
     vector.h
     )

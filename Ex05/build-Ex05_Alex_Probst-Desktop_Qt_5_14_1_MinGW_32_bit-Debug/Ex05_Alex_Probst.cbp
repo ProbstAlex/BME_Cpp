@@ -80,12 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex05/Ex05_Alex_Probst/exampleclass.cpp">
-			<Option target="Ex05_Alex_Probst"/>
-		</Unit>
-		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex05/Ex05_Alex_Probst/exampleclass.h">
-			<Option target="Ex05_Alex_Probst"/>
-		</Unit>
 		<Unit filename="C:/Users/alexp/Documents/BME_Cpp/Ex05/Ex05_Alex_Probst/main.cpp">
 			<Option target="Ex05_Alex_Probst"/>
 		</Unit>

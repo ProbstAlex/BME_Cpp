@@ -76,9 +76,6 @@ int main(int argc, char *argv[]) //?
     cout << "Assigned Copy has size " << v2.size() << endl;
     cout << "Assigned Copy contains value " << v2.at(0) << "\n" << endl;
 
-    // can't get move assignment operator to get working. for v2 = v2 + vMove I
-    // build a copy assignment + operator.
-
     // 8) Check Move Assignment Operator and <<Operator
 
     v2 = v2 + vMove; // Move assign!

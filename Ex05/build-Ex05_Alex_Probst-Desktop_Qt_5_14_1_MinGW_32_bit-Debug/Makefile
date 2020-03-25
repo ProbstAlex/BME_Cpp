@@ -122,33 +122,6 @@ Ex05_Alex_Probst/fast:
 	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/build
 .PHONY : Ex05_Alex_Probst/fast
 
-exampleclass.obj: exampleclass.cpp.obj
-
-.PHONY : exampleclass.obj
-
-# target to build an object file
-exampleclass.cpp.obj:
-	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/exampleclass.cpp.obj
-.PHONY : exampleclass.cpp.obj
-
-exampleclass.i: exampleclass.cpp.i
-
-.PHONY : exampleclass.i
-
-# target to preprocess a source file
-exampleclass.cpp.i:
-	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/exampleclass.cpp.i
-.PHONY : exampleclass.cpp.i
-
-exampleclass.s: exampleclass.cpp.s
-
-.PHONY : exampleclass.s
-
-# target to generate assembly for a file
-exampleclass.cpp.s:
-	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/exampleclass.cpp.s
-.PHONY : exampleclass.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -212,9 +185,6 @@ help:
 	@echo ... Ex05_Alex_Probst
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... exampleclass.obj
-	@echo ... exampleclass.i
-	@echo ... exampleclass.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

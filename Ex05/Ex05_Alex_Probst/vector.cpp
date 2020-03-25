@@ -81,17 +81,15 @@ Vector& Vector::operator=(const Vector &copySource)
 Vector& Vector::operator=(Vector &&moveSource)
 {
     std::cout << "Move Assign" << std::endl;
-    //if (this != &moveSource){
+    if (this != &moveSource){
 
     delete [] m_data;
     m_data = moveSource.m_data;
     m_size = moveSource.m_size;
-    //m_data = std::move(moveSource.m_data);
-    //m_size = move(moveSource.m_size);
 
     moveSource.m_data = nullptr;
     moveSource.m_size = 0;
-    //}
+    }
     return *this;
 }
 
@@ -105,7 +103,6 @@ Vector Vector::operator+(const Vector &addThis)
          for (int index = 0; index < m_size; ++index)
          {
              result.m_data[index] = m_data[index] + addThis.m_data[index];
-             //std::cout << "add " << m_data[index];
          }
     }
     return result;
@@ -136,14 +133,14 @@ int Vector::at(int index)
 {
     if ( m_size == 0 ){
         cout << "warning: empty vector ";
-        return false;
+        return -1;
     }
     else if ( index < m_size ){
         return m_data[index];
     }
     else{
         cout << "warning: index out of bounds ";
-        return false;
+        return -1;
     }
 }
 
@@ -171,7 +168,6 @@ void Vector::pop_back()
     for (int index = 0; index < tmp_size; ++index)
     {
         tmp[index] = m_data[index];
-        //cout << tmp[index] << endl;
     }
     delete [] m_data;
     m_data = tmp;

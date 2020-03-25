@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-
 CMakeFiles/Ex05_Alex_Probst.dir/all:
 	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/depend
 	$(MAKE) -f CMakeFiles\Ex05_Alex_Probst.dir\build.make CMakeFiles/Ex05_Alex_Probst.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug\CMakeFiles --progress-num=1,2,3,4 "Built target Ex05_Alex_Probst"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug\CMakeFiles --progress-num=1,2,3 "Built target Ex05_Alex_Probst"
 .PHONY : CMakeFiles/Ex05_Alex_Probst.dir/all
 
 # Include target in all.
@@ -80,7 +80,7 @@ all: CMakeFiles/Ex05_Alex_Probst.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Ex05_Alex_Probst.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug\CMakeFiles 3
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/Ex05_Alex_Probst.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\alexp\Documents\BME_Cpp\Ex05\build-Ex05_Alex_Probst-Desktop_Qt_5_14_1_MinGW_32_bit-Debug\CMakeFiles 0
 .PHONY : CMakeFiles/Ex05_Alex_Probst.dir/rule

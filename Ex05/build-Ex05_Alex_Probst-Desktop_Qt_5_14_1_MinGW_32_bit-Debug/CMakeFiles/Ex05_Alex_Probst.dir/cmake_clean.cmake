@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Ex05_Alex_Probst.dir/main.cpp.obj"
-  "CMakeFiles/Ex05_Alex_Probst.dir/exampleclass.cpp.obj"
   "CMakeFiles/Ex05_Alex_Probst.dir/vector.cpp.obj"
   "Ex05_Alex_Probst.pdb"
   "Ex05_Alex_Probst.exe"
