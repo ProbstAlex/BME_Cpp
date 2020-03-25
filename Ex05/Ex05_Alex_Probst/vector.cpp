@@ -120,11 +120,6 @@ Vector& Vector::operator+(const Vector &addThis)
     return *this;
 }
 
-
-
-
-
-
 int Vector::size()
 {
     return m_size;
